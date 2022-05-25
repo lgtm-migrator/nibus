@@ -73,7 +73,7 @@
     "pm2": "^5.0.0",
     "progress": "^2.0.3",
     "serialport": "^10.4.0",
-    "table-layout": "^1.0.0",
+    "table-layout": "^3.0.0",
     "tail": "^2.0.2",
     "tiny-typed-emitter": "^2.0.3",
     "usb-detection": "^4.14.1",
